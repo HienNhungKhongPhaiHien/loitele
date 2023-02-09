@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1675947547 source:e:\sdl2_learning\ex1_sdl\game\learninggame\main.cpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
+1675946853 e:\sdl2_learning\ex1_sdl\game\learninggame\renderwindow.hpp
+	<SDL.h>
+	"Entity.hpp"
+
+1675935148 source:e:\sdl2_learning\ex1_sdl\game\learninggame\renderwindow.cpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
+1675947571 source:e:\sdl2_learning\ex1_sdl\game\learninggame\entity.cpp
+	"Entity.hpp"
+	"RenderWindow.hpp"
+
+1675947549 e:\sdl2_learning\ex1_sdl\game\learninggame\entity.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"Math.hpp"
+
+1675777128 source:e:\sdl2_learning\ex1_sdl\game\learninggame\math.cpp
+
+1675781116 e:\sdl2_learning\ex1_sdl\game\learninggame\math.hpp
+	<iostream>
+
+1675933826 source:e:\sdl2_learning\ex1_sdl\game\learninggame\character.cpp
+
+1675867205 e:\sdl2_learning\ex1_sdl\game\learninggame\character.hpp
+	<iostream>
+	<vector>
+	<SDL.h>
+	<SDL_image.h>
+	"Math.hpp"
+
